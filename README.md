@@ -13,7 +13,7 @@ Currently based in France, I enjoy working on scalable web apps, mobile projects
 ---
 
 ## 🚀 Featured Projects
-- [**Bibliocards**](https://bibliocards.com) – An app to collect, organize, and share photocards (iOS & web)  
+- [**Bibliocards**](https://bibliocards.com) – An app to collect, organize, and share K-POP photocards (iOS & Android)  
 - More projects on my [GitHub repositories](https://github.com/thomasorgeval?tab=repositories)  
 
 ---
@@ -37,3 +37,4 @@ Currently based in France, I enjoy working on scalable web apps, mobile projects
 ![CI/CD](https://img.shields.io/badge/CI%2FCD-000000?style=flat&logo=githubactions&logoColor=white) 
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=github-actions&logoColor=white) 
 ![VPS](https://img.shields.io/badge/VPS-333333?style=flat&logo=linux&logoColor=white) 
+
