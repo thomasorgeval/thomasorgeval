@@ -36,5 +36,5 @@ Currently based in France, I enjoy working on scalable web apps, mobile projects
 ![NX](https://img.shields.io/badge/NX-143055?style=flat&logo=nx&logoColor=white) 
 ![CI/CD](https://img.shields.io/badge/CI%2FCD-000000?style=flat&logo=githubactions&logoColor=white) 
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=github-actions&logoColor=white) 
-![VPS](https://img.shields.io/badge/VPS-333333?style=flat&logo=linux&logoColor=white) 
-
+![VPS](https://img.shields.io/badge/VPS-333333?style=flat&logo=linux&logoColor=white)
+![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=flat&logo=ansible&logoColor=white)
