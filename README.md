@@ -37,12 +37,3 @@ Currently based in France, I enjoy working on scalable web apps, mobile projects
 ![CI/CD](https://img.shields.io/badge/CI%2FCD-000000?style=flat&logo=githubactions&logoColor=white) 
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=github-actions&logoColor=white) 
 ![VPS](https://img.shields.io/badge/VPS-333333?style=flat&logo=linux&logoColor=white) 
-
----
-
-## 📬 Contact
-- 🌍 [Portfolio](https://thomasorgeval.com)  
-- 💼 [LinkedIn](https://linkedin.com/in/thomasorgeval)  
-- ✉️ [Email](mailto:thomasorgeval@gmail.com)  
-
-
