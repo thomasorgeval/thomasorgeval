@@ -20,16 +20,22 @@ Currently based in France, I enjoy working on scalable web apps, mobile projects
 
 ## 🛠️ Skills
 **Languages & Frameworks**  
-TypeScript · JavaScript · NestJS · Angular · React Native
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white) 
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
+
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat&logo=angular&logoColor=white) 
+![Quarkus](https://img.shields.io/badge/Quarkus-4695EB?style=flat&logo=quarkus&logoColor=white) 
+![Spring Boot](https://img.shields.io/badge/SpringBoot-6DB33F?style=flat&logo=springboot&logoColor=white) 
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat&logo=nestjs&logoColor=white) 
+![React Native](https://img.shields.io/badge/ReactNative-61DAFB?style=flat&logo=react&logoColor=black)  
 
 **DevOps & Tools**  
-Docker · GCP · NX · CI/CD · GitHub Actions · VPS
-
----
-
-## 📊 GitHub Stats
-![Thomas's GitHub stats](https://github-readme-stats.vercel.app/api?username=thomasorgeval&show_icons=true&theme=default&hide_border=true)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thomasorgeval&layout=compact&theme=default&hide_border=true)  
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white) 
+![GCP](https://img.shields.io/badge/GCP-4285F4?style=flat&logo=googlecloud&logoColor=white) 
+![NX](https://img.shields.io/badge/NX-143055?style=flat&logo=nx&logoColor=white) 
+![CI/CD](https://img.shields.io/badge/CI%2FCD-000000?style=flat&logo=githubactions&logoColor=white) 
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=github-actions&logoColor=white) 
+![VPS](https://img.shields.io/badge/VPS-333333?style=flat&logo=linux&logoColor=white) 
 
 ---
 
@@ -37,3 +43,4 @@ Docker · GCP · NX · CI/CD · GitHub Actions · VPS
 - 🌍 [Portfolio](https://thomasorgeval.com)  
 - 💼 [LinkedIn](https://linkedin.com/in/thomasorgeval)  
 - ✉️ [Email](mailto:thomasorgeval@gmail.com)  
+
