@@ -24,7 +24,8 @@ Currently based in France, I enjoy working on scalable web apps, mobile projects
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
 
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat&logo=angular&logoColor=white) 
-![Quarkus](https://img.shields.io/badge/Quarkus-4695EB?style=flat&logo=quarkus&logoColor=white) 
+![Quarkus](https://img.shields.io/badge/Quarkus-4695EB?style=flat&logo=quarkus&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/SpringBoot-6DB33F?style=flat&logo=springboot&logoColor=white) 
 ![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat&logo=nestjs&logoColor=white) 
 ![React Native](https://img.shields.io/badge/ReactNative-61DAFB?style=flat&logo=react&logoColor=black)  
@@ -43,4 +44,5 @@ Currently based in France, I enjoy working on scalable web apps, mobile projects
 - 🌍 [Portfolio](https://thomasorgeval.com)  
 - 💼 [LinkedIn](https://linkedin.com/in/thomasorgeval)  
 - ✉️ [Email](mailto:thomasorgeval@gmail.com)  
+
 
