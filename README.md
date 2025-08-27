@@ -34,6 +34,7 @@ Currently based in France, I enjoy working on scalable web apps, mobile projects
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white) 
 ![GCP](https://img.shields.io/badge/GCP-4285F4?style=flat&logo=googlecloud&logoColor=white) 
 ![NX](https://img.shields.io/badge/NX-143055?style=flat&logo=nx&logoColor=white) 
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black) 
 ![CI/CD](https://img.shields.io/badge/CI%2FCD-000000?style=flat&logo=githubactions&logoColor=white) 
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=github-actions&logoColor=white) 
 ![VPS](https://img.shields.io/badge/VPS-333333?style=flat&logo=linux&logoColor=white)
