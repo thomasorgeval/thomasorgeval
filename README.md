@@ -14,7 +14,7 @@ Currently based in France, I enjoy working on scalable web apps, mobile projects
 
 ## 🚀 Featured Projects
 - [**Bibliocards**](https://bibliocards.com) – An app to collect, organize, and share K-POP photocards (iOS & Android)
-- [**Stylora**](https://stylora.xyz) - An open-source and self-hostable database management workspace through web
+- [**Stylora**](https://stylora.xyz) - An [open-source](https://github.com/thomasorgeval/stylora) and self-hostable database management workspace through web
 - [**ngx-better-auth**](https://github.com/thomasorgeval/ngx-better-auth) - An open-source library to easily implement Better Auth Client for Angular
 - More projects on my [GitHub repositories](https://github.com/thomasorgeval?tab=repositories)  
 
